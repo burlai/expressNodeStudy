@@ -1,0 +1,14 @@
+{
+  "name": "buildapiwithexpress",
+  "version": "1.0.0",
+  "description": "learn to build an API with node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vasya Pupkin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
